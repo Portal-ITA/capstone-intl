@@ -1,0 +1,32 @@
+{
+  "name": "capstone-intl",
+  "version": "3.1.6",
+  "description": "Capstone Mongoose schema plugin for multilingual fields",
+  "main": "lib/capstone-intl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "mongoose": "~4 || ~5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/jm4rc05/capstone-intl"
+  },
+  "keywords": [
+    "mongoose",
+    "intl",
+    "i18n",
+    "l10n",
+    "internationalization",
+    "localization",
+    "capstone",
+    "capstonejs"
+  ],
+  "author": {
+    "name": "jm4rc05",
+    "url": "https://bitbucket.org/jm4rc05/capstone-intl"
+  },
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/jm4rc05/capstone-intl"
+}
