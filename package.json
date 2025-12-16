@@ -1,6 +1,6 @@
 {
   "name": "capstone-intl",
-  "version": "3.1.7",
+  "version": "3.1.6",
   "description": "Capstone Mongoose schema plugin for multilingual fields",
   "main": "lib/capstone-intl.js",
   "scripts": {
