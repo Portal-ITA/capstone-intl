@@ -3,9 +3,6 @@
   "version": "3.1.6",
   "description": "Capstone Mongoose schema plugin for multilingual fields",
   "main": "lib/capstone-intl.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
     "mongoose": "^5.13.23"
   },
@@ -28,5 +25,8 @@
     "url": "https://bitbucket.org/jm4rc05/capstone-intl"
   },
   "license": "MIT",
-  "homepage": "https://bitbucket.org/jm4rc05/capstone-intl"
+  "homepage": "https://bitbucket.org/jm4rc05/capstone-intl",
+  "scripts": {
+    "build": "true"
+  }
 }
