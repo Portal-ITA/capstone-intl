@@ -4,7 +4,7 @@
   "description": "Capstone Mongoose schema plugin for multilingual fields",
   "main": "lib/capstone-intl.js",
   "dependencies": {
-    "mongoose": "^9.1.0"
+    "mongoose": "^5.13.0"
   },
   "repository": {
     "type": "git",
